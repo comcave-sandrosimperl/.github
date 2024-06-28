@@ -8,5 +8,5 @@
 
 
 Informations:
-  ** Es gibt Temas, in welchen Repos untergeordnet sind
-  ** Repos sind nicht bearbeitbar
+  * Es gibt Temas, in welchen Repos untergeordnet sind
+  * Repos sind nicht bearbeitbar
