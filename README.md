@@ -6,7 +6,5 @@
 * Weiterleiten oder Empfehelen ohne Erlaubnis nicht gestattet
 * Weigtergabe an nicht Comcave Teilnehmer nicht gestattet
 
-
-Informations:
-  * Es gibt Temas, in welchen Repos untergeordnet sind
+  * Es gibt Teams, in welchen Repos untergeordnet sind
   * Repos sind nicht bearbeitbar
